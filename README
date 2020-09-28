@@ -1,4 +1,9 @@
 使用方法：直接运行Soft-Masked-BERT.py查看Soft-Masked-BERT输出的tensor结果
+环境：
+ubantu 18.4.0
+python 3.6.9
+torch  1.6.0
+
 
 论文讲解地址 https://zhuanlan.zhihu.com/p/259540550
 
