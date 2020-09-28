@@ -1,3 +1,5 @@
+使用方法：直接运行Soft-Masked-BERT.py查看Soft-Masked-BERT输出的tensor结果
+
 论文讲解地址 https://zhuanlan.zhihu.com/p/259540550
 
 其中代码中用到的bert中文训练模型与config文件可以通过以下链接下载：
