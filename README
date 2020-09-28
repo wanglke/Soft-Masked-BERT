@@ -1,0 +1,7 @@
+论文讲解地址 https://zhuanlan.zhihu.com/p/259540550
+
+其中代码中用到的bert中文训练模型与config文件可以通过以下链接下载：
+
+config文件下载：https://s3.amazonaws.com/models.huggingface.co/bert/bert-base-chinese-config.json
+
+bert中文预训练模型：https://s3.amazonaws.com/models.huggingface.co/bert/bert-base-chinese-pytorch_model.bin
